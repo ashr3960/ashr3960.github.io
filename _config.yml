@@ -1,0 +1,14 @@
+# Basic Options
+title: Rink Watch
+author: Rehma Ashraf
+email: 12r.ashraf@gmail.com
+description: RinkWatch is a citizen science research initiative that asks people who love outdoor skating to help environmental scientists monitor 
+winter weather conditions and study the long-term impacts of climate change. Launched by researchers at Wilfrid Laurier University in January 2013,
+participants from across North America have submitted information about skating conditions on more than 1,400 outdoor rinks and ponds. 
+In addition to contributing valuable data to environmental science, RinkWatch has become an online community for people who love making backyard and community rinks.
+
+
+
+# Build Settings
+markdown: kramdown
+theme: architect
