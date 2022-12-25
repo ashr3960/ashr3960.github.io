@@ -9,4 +9,4 @@ github_username: rehma
 
 # Build Settings
 markdown: kramdown
-theme: Architect
+theme: minima
